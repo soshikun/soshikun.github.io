@@ -40,6 +40,9 @@
     - Based on feedback from LGBTQ-identifying individuals, created a prototype website to assist with visual storytelling and allowed players to make choices, with the story reflecting their choices.
 
 ### Habi Hero Mobile
+#### Problem Statement:
+> How might elementary math teachers achieve a tailored teaching method so that their students with numeracy challenges can stay engaged in their education?
+
 - Designed a mobile game to assist elementary school students with numeracy challenges to improve their mathematical skills with a small group of classmates.
     - Conducted user research, market research, and literature reviews to understand the audience and competitors.
     - Designed a prototype iOS app to appeal to children and allow them to practice their math skills with friends through multiplayer functions.
