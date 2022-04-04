@@ -1,1 +1,0 @@
-# soshikun.github.io
