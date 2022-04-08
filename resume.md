@@ -39,7 +39,7 @@
 - Built a web-based visual novel with an underlying premise to reduce prejudice and discrimination towards LGBTQ+ communities.
     - Based on feedback from LGBTQ-identifying individuals, created a prototype website to assist with visual storytelling and allowed players to make choices, with the story reflecting their choices.
 
-### Habi Hero Mobile
+### [Habi Hero Mobile](https://www.figma.com/proto/OhYRT6ofQDFIK3upxA4OIx/INFO-360-Prototype?node-id=115%3A2438&starting-point-node-id=115%3A2438)
 #### Problem Statement:
 > How might elementary math teachers achieve a tailored teaching method so that their students with numeracy challenges can stay engaged in their education?
 
